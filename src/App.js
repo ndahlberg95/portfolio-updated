@@ -1,13 +1,31 @@
 import React from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
+import Contact from './components/Contact';
+import Resume from './components/Resume';
+import Portfolio from './components/Portfolio';
 
 function App() {
+  const [currentPage, setCurrentPage] = React.useState("Portfolio")
+  function showCurrentPage() {
+      if (currentPage === "About") {
+        return <About></About>
+      }
+      if (currentPage === "Portfolio") {
+        return <Portfolio></Portfolio>
+      }
+      if (currentPage === "Contact") {
+        return <Contact></Contact>
+      }
+      if (currentPage === "Resume") {
+        return <Resume></Resume>
+      }
+  }
   return (
     <div>
-      <Nav></Nav>
+      <Nav setCurrentPage={setCurrentPage} asdf="asdf"></Nav>
       <main>
-        <About></About>
+        {showCurrentPage()}
       </main>
     </div>
   );
