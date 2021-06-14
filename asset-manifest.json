@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-updated/static/css/main.a95d668b.chunk.css",
+    "main.js": "/portfolio-updated/static/js/main.aefb56f8.chunk.js",
+    "main.js.map": "/portfolio-updated/static/js/main.aefb56f8.chunk.js.map",
+    "runtime-main.js": "/portfolio-updated/static/js/runtime-main.e26523fa.js",
+    "runtime-main.js.map": "/portfolio-updated/static/js/runtime-main.e26523fa.js.map",
+    "static/js/2.b11abef4.chunk.js": "/portfolio-updated/static/js/2.b11abef4.chunk.js",
+    "static/js/2.b11abef4.chunk.js.map": "/portfolio-updated/static/js/2.b11abef4.chunk.js.map",
+    "static/js/3.b1e72771.chunk.js": "/portfolio-updated/static/js/3.b1e72771.chunk.js",
+    "static/js/3.b1e72771.chunk.js.map": "/portfolio-updated/static/js/3.b1e72771.chunk.js.map",
+    "index.html": "/portfolio-updated/index.html",
+    "static/css/main.a95d668b.chunk.css.map": "/portfolio-updated/static/css/main.a95d668b.chunk.css.map",
+    "static/js/2.b11abef4.chunk.js.LICENSE.txt": "/portfolio-updated/static/js/2.b11abef4.chunk.js.LICENSE.txt",
+    "static/media/budget-tracker-screenshot.a1fa7098.png": "/portfolio-updated/static/media/budget-tracker-screenshot.a1fa7098.png",
+    "static/media/donation-tracker-screenshot.da7e8570.png": "/portfolio-updated/static/media/donation-tracker-screenshot.da7e8570.png",
+    "static/media/ghostwriter-screenshot.d4b47e28.png": "/portfolio-updated/static/media/ghostwriter-screenshot.d4b47e28.png",
+    "static/media/github-icon.601645a6.png": "/portfolio-updated/static/media/github-icon.601645a6.png",
+    "static/media/horiseon-screenshot.78be6a76.png": "/portfolio-updated/static/media/horiseon-screenshot.78be6a76.png",
+    "static/media/nora.bfd106ea.jpeg": "/portfolio-updated/static/media/nora.bfd106ea.jpeg",
+    "static/media/noras-resume-2021.961d6ba8.pdf": "/portfolio-updated/static/media/noras-resume-2021.961d6ba8.pdf",
+    "static/media/paintbrush-stroke.8ada7c67.jpeg": "/portfolio-updated/static/media/paintbrush-stroke.8ada7c67.jpeg",
+    "static/media/run-buddy-screenshot.4950f231.png": "/portfolio-updated/static/media/run-buddy-screenshot.4950f231.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e26523fa.js",
+    "static/js/2.b11abef4.chunk.js",
+    "static/css/main.a95d668b.chunk.css",
+    "static/js/main.aefb56f8.chunk.js"
+  ]
+}
