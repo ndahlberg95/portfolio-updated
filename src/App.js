@@ -4,6 +4,7 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
+import Footer from './components/Footer';
 
 function App() {
   const [currentPage, setCurrentPage] = React.useState("Portfolio")
@@ -27,6 +28,7 @@ function App() {
       <main>
         {showCurrentPage()}
       </main>
+      <Footer></Footer>
     </div>
   );
 }

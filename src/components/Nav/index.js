@@ -1,12 +1,12 @@
 import React from 'react';
-import './style.css';
+import paintbrush from '../../assets/images/paintbrush-stroke.jpeg';
 
 function Nav(props) {
     return (
         <header>
             <h2 className="title">
                 <a href="/">
-                    <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+                    <img src={paintbrush} className="paintbrush" alt="paintbrush"/>
                 </a>
             </h2>
             <nav>
@@ -15,7 +15,7 @@ function Nav(props) {
                         <a onClick={() => {
                             props.setCurrentPage("About")
                         }} href="#about">
-                            About me
+                            About Me
                         </a>
                     </li>
                     <li className="mx-2">
