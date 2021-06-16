@@ -6,4 +6,4 @@
 
 ### Link to GitHub Repo: https://github.com/ndahlberg95/portfolio-updated
 
-### Link to Deployed Application:
+### Link to Deployed Application: http://ndahlberg95.github.io/portfolio-updated
